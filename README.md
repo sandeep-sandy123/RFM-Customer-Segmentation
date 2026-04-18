@@ -46,6 +46,6 @@ RFM-Customer-Segmentation/
 ├── OnlineRetail_Cleaned.csv
 ├── RFM_Segments_Fixed.csv
 ├── RFM_Country.csv
-├── RFM_Analysis.pbix
+├── [RFM_Analysis.pbix](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/rfm_notebook.ipynb)
 ├── rfm_notebook.ipynb
 └── README.md
