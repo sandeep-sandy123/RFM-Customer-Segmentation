@@ -43,9 +43,8 @@ into 6 behavioural groups to identify high-value customers and at-risk segments.
 ## File Structure
 RFM-Customer-Segmentation/
 │
-├── OnlineRetail_Cleaned.csv
-├── RFM_Segments_Fixed.csv
-├── RFM_Country.csv
-├── [RFM_Analysis.pbix](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/rfm_notebook.ipynb)
-├── rfm_notebook.ipynb
+├── [OnlineRetail_Cleaned.csv](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/OnlineRetail_Cleaned.csv)
+├── [RFM_Segments_Fixed.csv](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/RFM_Segments_Fixed.csv)
+├── [RFM_Analysis.pbix]https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/RFM_Analysis.pbit
+├── rfm_notebook.ipynb(https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/rfm_notebook.ipynb)
 └── README.md
