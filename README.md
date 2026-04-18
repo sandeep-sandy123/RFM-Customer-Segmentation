@@ -32,7 +32,7 @@ into 6 behavioural groups to identify high-value customers and at-risk segments.
 6. Built Power BI dashboard with 7 visuals
 
 ## Dashboard Preview
-https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/dashboard.png
+[![RFM Dashboard](dashboard.png)](https://github.com/sandeep-sandy123/RFM-Customer-Segmentation/blob/main/dashboard.png)
 
 ## Business Recommendations
 - Target 454 At-Risk customers with re-engagement campaigns
