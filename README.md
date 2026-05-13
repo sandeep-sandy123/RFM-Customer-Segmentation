@@ -12,10 +12,10 @@ into 6 behavioural groups to identify high-value customers and at-risk segments.
 - **998 Loyal Customers** forming the second largest segment
 
 ## Tools Used
-- **Python** — Pandas, NumPy (data cleaning)
-- **SQL Server** — RFM calculation and business queries
-- **Power BI** — Interactive dashboard (7 visuals)
-- **Excel** — Initial data exploration
+- **Python** - Pandas, NumPy (data cleaning)
+- **SQL Server** - RFM calculation and business queries
+- **Power BI** - Interactive dashboard (7 visuals)
+- **Excel** - Initial data exploration
 
 ## Dataset
 - Source: UCI Online Retail Dataset (Kaggle)
